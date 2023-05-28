@@ -1,0 +1,24 @@
+.skills{
+padding: 50px;
+
+}
+.skills_titulo{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 40px 0;
+    margin-bottom: 20px;
+}
+.skills_img{
+    display: flex;
+    justify-content: space-around;
+}
+.skills_icono{
+    width: 200px;
+    height: 200px;
+}
+
+.skills_icono:hover{
+    font-size: 250px;
+}
+

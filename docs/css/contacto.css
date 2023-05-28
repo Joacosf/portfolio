@@ -1,0 +1,25 @@
+.contacto{
+    margin: 40px 0;
+    padding: 50px;
+}
+.contacto_titulo{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 30px;
+
+}
+.contacto_form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.contacto_input{
+    
+    margin-bottom: 15px;
+    padding: 10px 0;
+    width: 30%;
+}
+.boton{
+    width: 30%;
+}

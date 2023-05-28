@@ -1,0 +1,37 @@
+body{
+    background-color: #ccc;
+}
+header{
+    background-color: dimgrey;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+
+.titulo{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.menu_item{
+    display: flex;
+    justify-items: center;
+}
+
+.item{
+    margin: 0 10px;
+    padding: 10px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;  
+}
+.item a{
+    color: black;
+    text-decoration: none;
+}
+
+.item a:hover{
+    text-decoration: underline;
+    color: gold;
+}
+

@@ -1,0 +1,18 @@
+.footer{
+    background-image: url(/img/bg.jpg);
+}
+
+.footer_icono{
+    display: flex;
+    justify-content: space-around;
+}
+.icono{
+    width: 50px;
+    height: 50px;
+    padding: 50px 0;
+    color: white;
+}
+.footer_copy{
+    text-align: center;
+    color: white;
+}
