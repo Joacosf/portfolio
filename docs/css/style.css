@@ -17,6 +17,7 @@ header{
 .menu_item{
     display: flex;
     justify-items: center;
+    text-decoration: none;
 }
 
 .item{
