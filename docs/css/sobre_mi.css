@@ -1,5 +1,6 @@
 .sobreMi{
     display: flex;
+    flex-direction: column;
     padding: 50px;
     justify-content: center;
     justify-items: center;
@@ -9,6 +10,12 @@
     font-size: 30px;
     font-weight: bold;
     padding: 20px;
+}
+
+.presentacion_texto{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .sobreMi_texto{
